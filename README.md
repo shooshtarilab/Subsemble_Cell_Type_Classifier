@@ -1,6 +1,6 @@
-# Subsemble_Cell_Type_Classifier
-
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+# Subsemble Cell Type Classifier
 
 ## Description
 Code and Extended Data for the manuscript "Cell-type classification of single-cell transcriptomics using the Subsemble supervised ensemble machine learning classifier".
