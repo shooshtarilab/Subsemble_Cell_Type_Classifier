@@ -3,7 +3,7 @@
 # Subsemble Cell Type Classifier
 
 ## Description
-Code and Extended Data for the manuscript "Cell-type classification of single-cell transcriptomics using the Subsemble supervised ensemble machine learning classifier".
+Code and Extended Data for the manuscript "Cell-type classification of the tumor single-cell gene expression data using the Subsemble supervised ensemble machine learning classifier".
 
 ## File Structure
 <pre>
