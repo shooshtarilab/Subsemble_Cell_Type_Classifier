@@ -19,7 +19,6 @@ Code and Extended Data for the manuscript "Cell-type classification of single-ce
 │   └── Figure 4C
 ├── Subsemble.ipynb                                          // Jupyter notebook with example Subsemble classifier for user input.
 ├── skf_metrics_cc.py                                        // Python script for classification performance benchmarking using N-fold CV or LOOCV.
-│   └── PCAWG_sigProfiler_DBS_signatures_in_samples.csv
 </pre>
 
 ## Citation
